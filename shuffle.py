@@ -48,4 +48,4 @@ def parse_args():
 
 if __name__ == "__main__":
 #   args = parse_args()
-  main("./train", "./test", float(0.7))
+  main("./test", "./valid", float(0.5))
